@@ -76,6 +76,8 @@
 
 * Ett stort community som kan hjälpa till om det behövs
 
+* Du kan synka ihop github med din VC studio
+
 #### Markdown:
 * Kan användas till mycket. Ex skapa dokument, hemsidor, presentationer mm
 
